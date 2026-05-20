@@ -1,0 +1,10 @@
+/* Paste this at the end of ~/.local/share/gnome-shell/extensions/dash-to-dock@micxgx.gmail.com/stylesheet.css */
+
+#dashtodockContainer .dash-background {
+    /* Thin, semi-transparent light border mimicking macOS */
+    border: 1px solid rgba(255, 255, 255, 0.15) !important;
+                
+    /* Optional: Ensures the container matches macOS curvature */
+    border-radius: 18px !important; 
+}
+
